@@ -1,8 +1,9 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
 import RootRouter from './routes/RootRouter'
+
+import "./assets/css/base.css";
+import "./assets/css/intro.css";
 
 function App() {
 
